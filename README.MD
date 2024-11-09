@@ -5,9 +5,12 @@
 Este é um projeto de interface de um aplicativo de academia desenvolvido com React Native.
 
 ## Screenshot:
-<div style="display: flex; align-items: center; justify-content:center">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin-right: 10px;"/>  
-</div>
+
+<div  style="display: flex; align-items: center">
+
+<img  src="https://i.postimg.cc/QtvyT8Xp/app.jpg"  alt="App image"  width="350"  height="500"  style="margin-right: 10px;"/>
+
+
 ### Tecnologias / Bibliotecas Utilizadas:
 
 <div style="display: flex; align-items: center;">
@@ -16,4 +19,4 @@ Este é um projeto de interface de um aplicativo de academia desenvolvido com Re
   <img src="https://seekicon.com/free-icon-download/expo_1.png" alt="Expo" width="40" height="40"/>
 </div>
 
-#### Neste projeto foi usado o framework React Native, Expo para desenvolvimento e testes, SectionList para exibir os dados e a biblioteca React Navigation para alternar entre as telas.
+####  Neste projeto foi usado o framework React Native, Expo para desenvolvimento e testes, SectionList para exibir os dados e a biblioteca React Navigation para alternar entre as telas.
