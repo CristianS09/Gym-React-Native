@@ -2,7 +2,7 @@
 
 const sections = [
     {
-        title: 'Exercícios para Abdomen',
+        title: 'Exercícios para Abdômen',
         data: [
             { id: 1, image: 'https://tiagoalcantara.com.br/wp-content/uploads/2023/01/qual-a-diferenca-entre-lipo-hd-e-lipo-tradicional.jpg' },
             { id: 2, image: 'https://www.smartfit.com.br/news/wp-content/uploads/2021/07/como-fazer-abdominal-corretamente.jpg' },
